@@ -16,3 +16,5 @@ this would have right and left binding powers be different
 add tracing on page 98
 
 add formatting to the repl, and modes for lexing and parsing 
+
+add stack trace to error objects
